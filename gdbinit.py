@@ -12,7 +12,7 @@ from elftools.elf.elffile import ELFFile
 logging.basicConfig(
     format="%(levelname)s [%(funcName)s:%(lineno)d] - %(message)s",
     datefmt="%Y-%m-%d:%H:%M:%S",
-    level=logging.INFO,
+    level=logging.WARNING,
 )
 
 logger = logging.getLogger(__name__)
