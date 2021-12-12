@@ -1,0 +1,2 @@
+pyelftools==0.27
+r2pipe==1.6.5
