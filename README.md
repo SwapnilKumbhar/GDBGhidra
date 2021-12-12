@@ -2,6 +2,10 @@
 
 A GDB plugin to provide Ghidra's decompilation within GDB. To achieve this, the plugin uses `r2ghidra` underneath. `r2ghidra` abstracts all interactions with Ghidra's native decompiler and combined with `r2pipe`, provides a clean interface to use in Python.
 
+## Demo :rocket:
+
+![BasicDemo](./Demo/decompilerDemo.gif)
+
 ## Usage
 
 Add the following line in your `gdbinit` 
