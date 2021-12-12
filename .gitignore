@@ -1,0 +1,12 @@
+# Virtual Env
+
+venv
+
+# gdb history
+.gdb_history
+
+# IDE stuff
+.idea
+
+# Python stuff
+*.pyc
